@@ -1,10 +1,11 @@
-# ADuC V3/V4 Assembly Exercises
+![IMG_20251230_200608](https://github.com/user-attachments/assets/ddc5b768-48b0-4116-b294-25a2aaa7dd15)# ADuC V3/V4 Assembly Exercises
 
 A set of simple **8051/ADuC V3/V4 assembly** exercises for learning basic embedded I/O: reading switches and controlling LEDs (with delays).
 
 ## Hardware Setup (Photo)
 
-![ADuC board setup](images/IMG_20251230_200608.jpg)
+![ADuC board setup]![IMG_20251230_200608](https://github.com/user-attachments/assets/57455ca7-e9ea-4171-917f-760a10561b36)
+
 
 *Laptop + ADuC V3/V4 board connected via USB during testing.*
 
