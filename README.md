@@ -1,4 +1,4 @@
-![IMG_20251230_200608](https://github.com/user-attachments/assets/ddc5b768-48b0-4116-b294-25a2aaa7dd15)# ADuC V3/V4 Assembly Exercises
+# ADuC V3/V4 Assembly Exercises
 
 A set of simple **8051/ADuC V3/V4 assembly** exercises for learning basic embedded I/O: reading switches and controlling LEDs (with delays).
 
