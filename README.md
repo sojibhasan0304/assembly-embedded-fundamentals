@@ -1,8 +1,7 @@
 # ADuC V3/V4 Assembly Exercises
 
 A small collection of **8051/ADuC V3/V4 assembly** exercises for learning basic embedded I/O using the ADuC board.
-
-![IMG_20251230_200608](https://github.com/user-attachments/assets/477c5372-85bc-4361-b4b2-6b539b1742f8)
+![Setup Photo](![IMG_20251230_200608](https://github.com/user-attachments/assets/477c5372-85bc-4361-b4b2-6b539b1742f8))
 
 ## What’s inside
 
