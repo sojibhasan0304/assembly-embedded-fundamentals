@@ -4,7 +4,7 @@ Welcome to the **ADuC832 LED Control Projects** repository! This collection feat
 
 ## Hardware Setup (Photo)
 
-![ADuC board setup]![IMG_20251230_200608](https://github.com/user-attachments/assets/57455ca7-e9ea-4171-917f-760a10561b36)
+![ADuC832 V4 board setup]![IMG_20251230_200608](https://github.com/user-attachments/assets/57455ca7-e9ea-4171-917f-760a10561b36)
 
 
 ## Files Overview 📂
