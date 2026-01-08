@@ -1,3 +1,5 @@
+;=============SOJIB HASAN===============
+;=============08 December 2025==========
 ; Template exersise 8 (runs on ADuC832 V3/4 board).
 ; Usage of the "djnz" instruction and lookup tables.
 ; Show a "Star Trek(?) pattern" on the LED's
@@ -9,7 +11,7 @@
 ; 11111111b
 ;
 ; Data is stored in a lookup table.
-;
+; Thomas More university
 ; Written by Roggemans M. (MGM) v2 on 02-02-2016
 ; Revisited by MGM gd on 07-2022
 
@@ -42,3 +44,4 @@ tabel:	  db	01111110b
 		  db	11111111b
          
 #include	"c:\aducgd1.inc"
+
