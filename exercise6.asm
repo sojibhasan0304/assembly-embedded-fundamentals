@@ -1,7 +1,9 @@
+;=============SOJIB HASAN===============
+;=============08 December 2025==========
 ; Template exersise 6 (runs on ADuC832 V3/4 board).
 ; Usage of the "djnz" instruction.
 ; Blink the LED's 3 times fast, then 3 times slowly, rerpeat indefinitely.
-;
+; Thomas More University
 ; Written by Roggemans M. (MGM) v2 on 02-02-2016
 ; Revisited by MGM gd on 07-2022
 
@@ -41,3 +43,4 @@ loop1:		mov	  p2,#00h			;LED's activated
 		ljmp	loop0			;restart code from location loop0
 
 #include	"c:\aducgd1.inc"
+
