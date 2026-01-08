@@ -1,6 +1,8 @@
+;=============SOJIB HASAN===============
+;=============06 December 2025==========
 ; This is the source code (.asm file) for exercise 2 on ADuC V3/V4 board.
 ; The program shows flashing LED's without a delay.
-;
+; Thomas more university
 ; Written by Roggemans M. (MGM) v2 on 02-02-2015
 ; Revisited by MGM 07-2022.
 
@@ -24,3 +26,4 @@ loop:		mov	p2,#00h
 ; Why don't you see the LED's flashing?
 
 #include	"c:\aducgd1.inc"
+
