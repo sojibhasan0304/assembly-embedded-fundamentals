@@ -1,6 +1,8 @@
+;=============SOJIB HASAN===============
+;=============06 December 2025==========
 ; This is the source code (.asm file) for exercise 5 on ADuC V3/V4 board.
 ; The program shows a rinning light on the LED's with a variable delay.
-;
+; Thomas More University
 ; Written by Roggemans M. (MGM) v2 on 02-02-2015
 ; Revisited by MGM 07-2022.
 
@@ -39,3 +41,4 @@ loop:	mov	p2,#01111111b			;LED's updated
 		ljmp	loop		;infinite loop
 
 #include	"c:\aducgd1.inc"
+
