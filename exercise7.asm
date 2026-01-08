@@ -1,6 +1,8 @@
+;=============SOJIB HASAN===============
+;=============08 December 2025==========
 ; Template exersise 7 (runs on ADuC832 V3/4 board).
 ; Usage of the "djnz" instruction.
-;
+; Thomas More University
 ; The program shows a "knight rider" pattern on the LED's with a variable speed (delay).
 ; The "rr a" en "rl a" instructions are used to manipulate a variable in the a register.
 ;
@@ -55,3 +57,4 @@ lus1:		mov	   p2,a			;LED's activated
 		    ljmp   lus0			;Restart the program
 
 #include	"c:\aducgd1.inc"
+
