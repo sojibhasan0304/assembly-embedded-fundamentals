@@ -1,8 +1,10 @@
+;=============SOJIB HASAN===============
+;=============06 December 2025==========
 ; This is the source code (.asm file) for exercise 1 on ADuC V3/V4 board.
 ; This is a template, allowing for quick take off.
 ; Make adjustments in order to get it working.
 ; ";" is used as a comment delimiter
-;
+; Thomas more university
 ; Written by Roggemans M. (MGM) v2 on 02-02-2015
 ; Revisited by MGM 07-2022.
 
@@ -29,3 +31,4 @@ loop:       mov P2, P0
 ; drive of your computer.
 
 #include	"c:\aducgd1.inc"
+
