@@ -1,6 +1,8 @@
+;=============SOJIB HASAN===============
+;=============06 December 2025==========
 ; This is the source code (.asm file) for exercise 4 on ADuC V3/V4 board.
 ; The program shows flashing LED's with a variable delay.
-;
+; Thomas More University
 ; Written by Roggemans M. (MGM) v2 on 02-02-2015
 ; Revisited by MGM 07-2022.
 
@@ -22,3 +24,4 @@ loop:	mov	p2,#00h		         ;LED's activated (choose different value!)
 ; WARNING! If input parameter for delaya0k05s = 0 256 x 0,05s delay is generated
 
 #include	"c:\aducgd1.inc"
+
