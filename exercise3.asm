@@ -1,3 +1,5 @@
+;=============SOJIB HASAN===============
+;=============06 December 2025==========
 ; This is the source code (.asm file) for exercise 3 on ADuC V3/V4 board.
 ; The program shows flashing LED's with a delay.
 ;
@@ -5,7 +7,7 @@
 ; Revisited by MGM 07-2022.
 
 		org	0000h			    ;starting address code
-		mov a, #10              ; Value a= 10 mens accumulator A = 10. so, delay = value in A × 0.05 seconds.
+		mov a, #10              ; Value a= 10 mens accumulator A = 10. so, delay = value in A Ã— 0.05 seconds.
 loop:	mov	p2,#00h		        ;LED's activated
 
                                 ; Add an instruction loading the required parameter for the delaya0k05s function.
@@ -21,3 +23,4 @@ loop:	mov	p2,#00h		        ;LED's activated
 		ljmp	loop			;infinite loop
 
 #include	"c:\aducgd1.inc"
+
