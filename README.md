@@ -36,6 +36,22 @@ exercise13.asm: Prints team members' names on the display, exploring background 
 
 exercise14.asm: Displays an 8-bit counter on the display that increments every time a button (P0.7) is pressed, with debounce handling. 🖲️💡
 
+exercise15.asm: Demonstrates the use of jb and jnb instructions. Switches (P0.4–P0.7) are used to select one out of four different running LED light patterns in real time. The selected pattern can be changed while the program is running. 🔀💡
+
+exercise16.asm: Introduces basic ADC (Analog-to-Digital Converter) usage. Reads an analog input from a potentiometer and displays the raw ADC value on the LCD after basic processing. 🎛️📟
+
+exercise17.asm: Implements a digital voltmeter using the ADC. Converts the analog input into a voltage value (0.000 V to 4.998 V) and displays the result in volts on the LCD. ⚡📟
+
+exercise18.asm: Reads temperature sensor (LM335) data using the ADC and displays the sensor output in hexadecimal format on the LCD. 🌡️🔢
+
+exercise19.asm: Extends ADC usage to convert LM335 sensor readings into Kelvin temperature values and displays them on the LCD. 🌡️📟
+
+exercise20.asm: Displays a real-time clock (hh:mm:ss) on the LCD using the TIC (Timer Interval Counter). The clock starts from a predefined time and runs continuously without interrupts. ⏰📟
+
+exercise21.asm: Uses interrupts to control multiple tasks. An ISR updates a running LED light every second, while the main program displays a decimal counter (00–99) on the LCD with a software delay. ⏱️💡📟
+
+exercise22.asm: Combines clock display and interrupt-driven LED control. The main program shows a real-time clock on the LCD, while the ISR toggles LEDs at a variable speed controlled by a potentiometer. ⏰🎛️💡
+
 Embedded Systems Fundamentals 💻🔧
 
 This repository is designed for learning and experimenting with Embedded Systems Fundamentals, especially using microcontrollers like the ADuC832 V3/4. It covers basic concepts essential for understanding and working with embedded systems, including:
