@@ -54,6 +54,8 @@ exercise22.asm: Combines clock display and interrupt-driven LED control. The mai
 
 exercise23.asm: Runs a “running light” (LED chase) continuously with no delay in the main loop, while an RTC (TIC) interrupt service routine updates and prints the clock (HH:MM:SS) on the LCD every ½ second. 💡🔁⏱️📟
 
+ex24C.asm: A full multi-interrupt system — RTC (TIC) ISR updates and prints the real-time clock (hh:mm:ss), ADC ISR continuously reads the potentiometer (ch7), Timer1 ISR creates a running LED pattern on Port P2, and Timer0 ISR updates a 00→99 counter on the LCD. ⏰🎛️💡🔁📟🔢
+
 Embedded Systems Fundamentals 💻🔧
 
 This repository is designed for learning and experimenting with Embedded Systems Fundamentals, especially using microcontrollers like the ADuC832 V3/4. It covers basic concepts essential for understanding and working with embedded systems, including:
