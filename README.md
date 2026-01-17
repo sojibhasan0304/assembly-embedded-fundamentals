@@ -52,6 +52,8 @@ exercise21.asm: Uses interrupts to control multiple tasks. An ISR updates a runn
 
 exercise22.asm: Combines clock display and interrupt-driven LED control. The main program shows a real-time clock on the LCD, while the ISR toggles LEDs at a variable speed controlled by a potentiometer. ⏰🎛️💡
 
+exercise23.asm: Runs a “running light” (LED chase) continuously with no delay in the main loop, while an RTC (TIC) interrupt service routine updates and prints the clock (HH:MM:SS) on the LCD every ½ second. 💡🔁⏱️📟
+
 Embedded Systems Fundamentals 💻🔧
 
 This repository is designed for learning and experimenting with Embedded Systems Fundamentals, especially using microcontrollers like the ADuC832 V3/4. It covers basic concepts essential for understanding and working with embedded systems, including:
